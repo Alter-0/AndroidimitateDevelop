@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:imagecontrol="http://schemas.android.com/apk/res-auto" >
+    <RelativeLayout
+        android:padding="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <demo.you.com.developerdemo.customview.CircleImageView
+        android:id="@+id/message_img"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/message_name"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/message_img"
+            android:layout_marginLeft="8dp"
+            android:textColor="@color/message_type"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <ImageView
+        android:id="@+id/message_to"
+        android:layout_centerVertical="true"
+        android:layout_alignParentRight="true"
+        android:src="@mipmap/indicator_gray"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</RelativeLayout>
+    <View
+        android:layout_alignParentBottom="true"
+        android:background="@color/message_line"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"/>
+</LinearLayout>

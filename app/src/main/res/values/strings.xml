@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">开发者头条</string>
+
+    <!--选项卡-->
+    <string name="tab_feature">阅读</string>
+    <string name="tab_message">动态</string>
+    <string name="tab_search">发现</string>
+    <string name="tab_account">我的</string>
+    <!--子选项卡-->
+    <string name="tab_sub_nice">精选</string>
+    <string name="tab_sub_read">订阅</string>
+
+    <!--我的界面-->
+    <string name="account_title">我的</string>
+    <string name="input_nickname">请填写昵称</string>
+    <string name="complete_info">完善个人资料，让更多人认识你</string>
+    <string name="account_share">分享</string>
+    <string name="account_focu">关注</string>
+    <string name="account_friend">粉丝</string>
+    <string name="apply_new_account">+申请新独家号</string>
+    <string name="account_name">我的独家号</string>
+    <string name="change_name">（换个名字吧）</string>
+    <string name="account_reader">订阅者</string>
+    <string name="show_to_show">晒一晒</string>
+    <string name="my_read">我订阅的独家号</string>
+    <string name="io_bi">我的IO币</string>
+    <string name="yesterday_get">昨天收益</string>
+    <string name="convert_gift">礼物兑换</string>
+    <string name="my_collect">我的收藏</string>
+    <string name="feedback">意见反馈</string>
+    <string name="teamwork">合作申请</string>
+    <string name="recommend">推荐App给好友</string>
+    <string name="setting">设置</string>
+    <string name="io_bi_count">账户总额</string>
+    <string name="grant">即将发放</string>
+    <string name="io_convert_gift">IO币免费换好礼</string>
+
+    <!--搜索界面-->
+    <string name="search_title">发现</string>
+    <string name="search_hint">搜索感兴趣的独家号或文章</string>
+    <string name="hot_team">活跃团队号</string>
+    <string name="select_hot">查看热门</string>
+    <string name="team_member">成员</string>
+    <string name="active_account">活跃独家号</string>
+    <string name="select_last">查看最新</string>
+    <string name="hot_account">热门独家号</string>
+    <string name="team">团队号</string>
+    <string name="mass">支持群发</string>
+
+    <!--message-->
+    <string name="message_title">消息</string>
+    <string name="message_read">订阅消息</string>
+    <string name="message_comment">评论消息</string>
+    <string name="message_focu">关注消息</string>
+    <string name="message_system">系统消息</string>
+    <string name="message_good">赞</string>
+
+    <!--feature-->
+    <string name="feature_no_content">您还没有订阅的内容</string>
+    <string name="goto_read">去订阅独家号</string>
+</resources>

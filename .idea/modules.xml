@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ImitateDevelopHeadLine-master.iml" filepath="$PROJECT_DIR$/ImitateDevelopHeadLine-master.iml" group="ImitateDevelopHeadLine-master" />
+      <module fileurl="file://$PROJECT_DIR$/MRL89Application.iml" filepath="$PROJECT_DIR$/MRL89Application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="ImitateDevelopHeadLine-master/app" />
+    </modules>
+  </component>
+</project>
