@@ -18,7 +18,7 @@
     <color name="press_item">#00d4d4d4</color>
     <color name="red_content">#f62e00</color>
     <color name="toshow_presure">#279bee</color>
-
+  <color name="colorCursor">#cccccc</color>
     <!--search-->
     <color name="search_bar">#f4f4f4</color>
     <color name="search_hint">#aaaaaa</color>
