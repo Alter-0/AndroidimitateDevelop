@@ -26,7 +26,6 @@ public class Main2Activity extends AppCompatActivity  {
         helper = new MyOpenHelper(this);
     }
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -41,8 +40,6 @@ public class Main2Activity extends AppCompatActivity  {
     public void sure_clicked(View view) {
         query();
     }
-
-
 
     protected void onActivityResult(int requestCode, int
             resultCode, Intent data) {
@@ -112,7 +109,6 @@ public class Main2Activity extends AppCompatActivity  {
                         startActivityForResult(it, 0);
                         Toast.makeText(this, "登陆成功", Toast.LENGTH_LONG).show();
                         return;
-
                     }
                     Toast.makeText(this, "账号或密码不正确", Toast.LENGTH_LONG).show();
                     return;

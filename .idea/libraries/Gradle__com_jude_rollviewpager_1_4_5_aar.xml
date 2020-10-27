@@ -1,14 +1,15 @@
 <component name="libraryTable">
   <library name="Gradle: com.jude:rollviewpager:1.4.5@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c3bb3f394b75e506f4ac3e258e0f55f0/rollviewpager-1.4.5/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c3bb3f394b75e506f4ac3e258e0f55f0/rollviewpager-1.4.5/res" />
+      <root url="file://D:/DevelopEnvironment/gradle/gradle-6.5.1/caches/transforms-2/files-2.1/c3bb3f394b75e506f4ac3e258e0f55f0/rollviewpager-1.4.5/AndroidManifest.xml" />
+      <root url="jar://D:/DevelopEnvironment/gradle/gradle-6.5.1/caches/transforms-2/files-2.1/c3bb3f394b75e506f4ac3e258e0f55f0/rollviewpager-1.4.5/jars/classes.jar!/" />
+      <root url="file://D:/DevelopEnvironment/gradle/gradle-6.5.1/caches/transforms-2/files-2.1/c3bb3f394b75e506f4ac3e258e0f55f0/rollviewpager-1.4.5/res" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jude/rollviewpager/1.4.5/8e7585444a4a9f086625dbc556b2f09a702c08d6/rollviewpager-1.4.5-javadoc.jar!/" />
+      <root url="jar://D:/DevelopEnvironment/gradle/gradle-6.5.1/caches/modules-2/files-2.1/com.jude/rollviewpager/1.4.5/8e7585444a4a9f086625dbc556b2f09a702c08d6/rollviewpager-1.4.5-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jude/rollviewpager/1.4.5/631346ed46695c679e30c92ec604d73ebe43200b/rollviewpager-1.4.5-sources.jar!/" />
+      <root url="jar://D:/DevelopEnvironment/gradle/gradle-6.5.1/caches/modules-2/files-2.1/com.jude/rollviewpager/1.4.5/631346ed46695c679e30c92ec604d73ebe43200b/rollviewpager-1.4.5-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

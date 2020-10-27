@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ImitateDevelopHeadLine-master.iml" filepath="$PROJECT_DIR$/ImitateDevelopHeadLine-master.iml" group="ImitateDevelopHeadLine-master" />
       <module fileurl="file://$PROJECT_DIR$/MRL89Application.iml" filepath="$PROJECT_DIR$/MRL89Application.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="ImitateDevelopHeadLine-master/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/androidgit.iml" filepath="$PROJECT_DIR$/.idea/modules/androidgit.iml" group="androidgit" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="androidgit/app" />
     </modules>
   </component>
 </project>
